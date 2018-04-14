@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The JavisDCE Converter Collection</string>
+    <string name="input_hint">Input</string>
+    <string name="output_label">Output</string>
+    <string name="mode_binary_to_char">Binary To Char</string>
+    <string name="mode_char_to_binary">Char To Binary</string>
+    <string name="mode_hex_to_dec">Hex To Decimal</string>
+    <string name="mode_dec_to_hex">Decimal To Hex</string>
+    <string name="convert">Convert</string>
+</resources>
